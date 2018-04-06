@@ -1,0 +1,174 @@
+<?xml version='1.0' standalone='yes'?>
+<content>
+  <pay>Пополнить</pay>
+  <vote>Голосовать</vote>
+  <teleHomeChar>Телепортирование персонажа в таверну</teleHomeChar>
+ 
+  <menu>Меню</menu>
+  <mainMenu>Главная</mainMenu>
+  <payMenu>Пополнение счета</payMenu>
+  <refMenu>Реферальная система</refMenu>
+  <voteMenu>Поддержать сервер</voteMenu>
+  <accountMenu>Аккаунт</accountMenu>
+   <bindingIpMenu>Привязка ip</bindingIpMenu>
+   <changePassMenu>Сменить пароль</changePassMenu>
+   <changeEmailMenu>Сменить почту</changeEmailMenu>
+  <changeRealm>Выбрать реалм</changeRealm>
+  <shopMenu>Магазин</shopMenu>
+    <armorsMenu>Доспехи</armorsMenu>
+    <spellsMenu>Спеллы</spellsMenu>
+  <helpMenu>Помощь</helpMenu>
+    <whatTikenMenu>Задать вопрос</whatTikenMenu>
+    <TikenAllMenu>Ваши вопросы</TikenAllMenu>
+  <charactersMenu>Персонажи</charactersMenu>
+    <changeCharMenu>Сменить персонажа</changeCharMenu>
+    <teleCharHome>Телепортирование</teleCharHome>
+    <changeGengedMenu>Сменить пол</changeGengedMenu>
+    <changeNameMenu>Сменить ник</changeNameMenu>
+    <getBonusesMenu>Получить бонусы</getBonusesMenu>
+    <changeRaceMenu>Смена расы</changeRaceMenu>
+    <changeFractionMenu>Смена фракции</changeFractionMenu>
+    <adminPanelMenu>Меню управления</adminPanelMenu>
+    <indexPanelMenu>Информация</indexPanelMenu>
+    <logsLinksMenu>Просмотр логов (Url)</logsLinksMenu>
+    <mauntsMenu>Маунты</mauntsMenu>
+    <versMenu>Разное</versMenu>
+    <weaponMenu>Оружие</weaponMenu>
+    <buyGoldArena>Покупка валют</buyGoldArena>
+
+
+      <addBonusMenu>Добавление бонусов</addBonusMenu>
+  
+
+    <logout>Выйти?</logout>
+    <logoutAct>Вы действительно хотите выйти? Нажмите Нет, если вы хотите, чтобы продолжить работу. Нажмите Да, чтобы завершить сеанс текущего пользователя.</logoutAct>
+    <logoutYes>Да</logoutYes>
+    <logoutNoy>Нет</logoutNoy>
+    <bindingIpAdress>Привязка ip адреса</bindingIpAdress>
+    <UpdateSecurityIp>Привязав аккаунт к Ip вы повысите уровень безопасности акка. (Отменить это действие будет не возможно!)</UpdateSecurityIp>
+    <bindRecommend>Привязка рекомендуется в случаях с постоянным ip адресом.</bindRecommend>
+    <ifDynamicIp> Если же ваш ip динамический возможно для вас будет удобней не использовать эту функцию.</ifDynamicIp>
+    <bind>Привязать</bind>
+    <character>Персонаж</character>
+    <changeLangTop>Смена языка</changeLangTop>
+    <login>Логин</login>
+    <password>Пароль</password>
+    <repaitPassword>Повторите пароль</repaitPassword>
+    <email>Почта</email>
+    <checkInReg>Регистрация</checkInReg>
+    <singIn>Вход</singIn>
+    <dp> dp </dp>
+    <numBonusDP>Количество бонусов DP</numBonusDP>
+    <numBonusVP>Количество бонусов(VP)</numBonusVP>
+    <youPassword>Ваш пароль</youPassword>
+    <chargeAllaccounts>Начислить всем аккаунтам</chargeAllaccounts>
+    <addBonus>Добавить бонусы</addBonus>
+    <account>Аккаунт</account>
+
+    <lk>Личный кабинет</lk>
+    <refillDp>Пополнение баланса</refillDp>
+    <refSystem>Реферальная система</refSystem>
+    <voteSystem>Система голосования</voteSystem>
+    <changePass>Смена пароля</changePass>
+    <changeChar>Смена персонажа</changeChar>
+    <changeName>Смена имени</changeName>
+    <changeLang>Смена языка</changeLang>
+    <changeEmail>Смена почта</changeEmail>
+    <changeGenged>Смена пола</changeGenged>
+    <ref>Реферальная система</ref>
+    <shop>Магазин</shop>
+    <ticket>Задать вопрос</ticket>
+    <ticketAll>Просмотреть вопросы</ticketAll>
+    <ticketReply>Ответить на тикет</ticketReply>
+    <payBonus>Пополнить баланс</payBonus>
+    <characters>Персонажи</characters>
+    <bindingIp>Привязка Ip</bindingIp>
+    <getBonuses>Получить бонусы</getBonuses>
+    <enterPersonalArea>Вход в личный кабинет</enterPersonalArea>
+    <changeRace>Сменить расу</changeRace>
+    <changeFraction>Сменить фракцию</changeFraction>
+    <adminPanel>Панель администратора</adminPanel>
+    <checkIn>Регистрация</checkIn>
+    <panelAddBonus>Добавление бонусов</panelAddBonus>
+    <buyValut>Покупка валют</buyValut>
+    <addBonusPanel>Добавление бонусов</addBonusPanel>
+
+
+
+
+    <logOrPassIncorrect>Логин или пароль не верен!</logOrPassIncorrect>
+    <filAllFields>Заполните все поля!</filAllFields>
+    <playerDidNotLoseDay>Игрок не проиграл 1 день!</playerDidNotLoseDay>
+    <youAlreadyVote>Вы уже голосовали!</youAlreadyVote>
+    <forgerPunishablChaData>Подделка данных персонажа это наказуемо!</forgerPunishablChaData>
+    <noyEnoughBonusPrice>Нехватает бонусов! Цена: </noyEnoughBonusPrice>
+    <errorFill>Ошибка в заполнении!</errorFill>
+    <noyEboughBonus>Не хватает бонусов!</noyEboughBonus>
+    <subjectNotPresent>Данного предмета нету!</subjectNotPresent>
+    <chooseYouChar>Выберите персонажа!</chooseYouChar>
+    <errorL>Ошибка!</errorL>
+    <errorCharFoesNotBelongYou>Ошибка [Данный персонаж не принадлежит вам!]</errorCharFoesNotBelongYou>
+    <youAlreadFloor>У вас уже есть этот пол!</youAlreadFloor>
+    <youAlreadReceivBonusForIt>Вы уже получили за него бонус!</youAlreadReceivBonusForIt>
+    <accountDoesNotBelongYou>Данный аккаунт не принажлежит вам!</accountDoesNotBelongYou>
+    <passNotMatch>Пароли не совпадают!</passNotMatch>
+    <mailOrUserAlreadyUse>Почта или логин уже используется!</mailOrUserAlreadyUse>
+    <errorLang>Ошибка! [Не определенный язык]</errorLang>
+    <errorNoLang>Данного языка нету!</errorNoLang>
+    <error404>404 Error!</error404>
+    <systemOff>Личный кабинет отключен!</systemOff>
+    <systemLang>Ошибка не выбран язык пользования!</systemLang>
+    <youAlreadyVote>Вы уже голосовали!</youAlreadyVote>
+    <useOnlyEnglish>Используйте только англ буквы!</useOnlyEnglish>
+    <characterAlreadName>У персонажа уже есть такое имя!</characterAlreadName>
+    <nameOccepied>Данное имя занято!</nameOccepied>
+    <charOnline>Выйдите из игры!</charOnline>
+    <objectNotFound>Предмет не найден</objectNotFound>
+    <bindingIpFalse>У вас уже привязан аккаунт!</bindingIpFalse>
+    <oldPassIncorrect>Старый пароль не верен!</oldPassIncorrect>
+    <codeNotValid>Данный код не действителен!</codeNotValid>
+    <mailBusy>Данная почта уже занята другим аккаунтом.</mailBusy>
+    <numberItemNot>Количество предметов не может быть таким.</numberItemNot>
+    <errorAgainLater>Ошибка попробуйте позже.</errorAgainLater>
+    <notValidPassword>Не верный пароль!</notValidPassword>
+    <errorfilling>Ошибка заполнения!</errorfilling>
+    <wrongAccount>Неверный аккаунт</wrongAccount>
+    <gleichIp>Вы не можете получить бонусы за этот аккаунт!</gleichIp>
+    <goldMax>У вашего персонажа уже есть более 214 000 золота</goldMax>
+    <minValut>Минимальное значение должно быть более 1</minValut>
+    <exceedNumValut>Превышено максимально количество валюты!</exceedNumValut>
+    <erorDev>Ошибка: пустой заголовок!</erorDev>
+    <erorMessageDev>Ошибка: Пустое сообщение!</erorMessageDev>
+    <alreadyVoteBonusDay>Вы уже получили бонус за этот день!</alreadyVoteBonusDay>
+
+    <authoriWasSucces>Авторизация прошла успешно!</authoriWasSucces>
+    <youPurchase>Спасибо за покупку.</youPurchase>
+    <changeSucces>Смена успешна!</changeSucces>
+    <gengedReplac>Пол сменен!</gengedReplac>
+    <realmReplace>Реалм сменен на </realmReplace>
+    <succesLang>Успешно!</succesLang>
+    <youOrderFromPersonalCab>Ваш заказ из личного кабинета кабинета.</youOrderFromPersonalCab>
+    <thingBeenSentYouMail>Вещь была отправлена вам на почту!</thingBeenSentYouMail>
+    <vipBuy>Vip приобретен!</vipBuy>
+    <vipExtend>Vip продлен!</vipExtend>
+    <vipOk>У вас уже бессрочный Vip!</vipOk>
+    <referralBeenTestedBonusCreat>Реферал прошел проверку. Бонусы зачислены!</referralBeenTestedBonusCreat>
+    <youAccBeenRegist>Ваш аккаунт зарегистрирован!</youAccBeenRegist>
+    <changeLangs>Язык сменен!</changeLangs>
+    <errorCharDoesNotBelongYou>Персонаж не принадлежит вам!</errorCharDoesNotBelongYou>
+    <floorReplaced>Пол сменен</floorReplaced>
+    <bindingIpSucces>Ip привязан к вашему аккаунту!</bindingIpSucces>
+    <bonusesCreditInAcc>Бонусы зачислены на ваш аккаунт!</bonusesCreditInAcc>
+    <regeralBeenTested>Реферал прошел проверку. Бонусы зачислены!</regeralBeenTested>
+    <addBonusAllAcc>Бонусы добавлены на все аккаунты в лк</addBonusAllAcc>
+    <addBonusAcc>Бонусы добавлены на аккаунт!</addBonusAcc>
+    <addValutAcc>Валюта зачислена!</addValutAcc>
+    <addBonusAllAcc>Бонусы добавлены на все аккаунты в лк</addBonusAllAcc>
+    <addBonusAcc>Бонусы добавлены на аккаунт!</addBonusAcc>
+    <emptyLevelUp>Не указано количество уровней!</emptyLevelUp>
+    <levelLevelUp>Вы пытаетесь повысить уровень выше 80!</levelLevelUp>
+    <levelSuccess>Уровень успешно поднят!</levelSuccess>
+    <notNum>Вы ввели не число!</notNum>
+    
+
+</content>
